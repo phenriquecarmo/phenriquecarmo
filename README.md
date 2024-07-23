@@ -1,4 +1,4 @@
-<h3 align="left">Henrique Carmo - Backend Developer from Brazil 🇧🇷</h3>
+<h3 align="left">Henrique Carmo - Backend Developer 🇧🇷</h3>
 
 ###
 
